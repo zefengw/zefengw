@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 😉 I'm Jack Wang
 - 👀 I'm interested in meeting new people and using technology to create an impact in the world
-- 🚀 I'm currently learning about Machine Learning, NLP, Computer Vision, and Algorithmic Trading
-- 😎 I'm looking to collaborate on any innovative, impactful or cool project 
+- 🚀 I'm currently learning about Web3 Development, ML/DL, NLP, Computer Vision, and Algorithmic Trading
+- 😎 I'm looking to collaborate on any innovative, impactful, or cool project
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/zefengwang/) or [Instragram](https://www.instagram.com/ze__feng/)
